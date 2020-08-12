@@ -1,0 +1,7 @@
+﻿  ENTITIES.cpp
+  GAME.cpp
+D:\University\GraphicCp\Lab3\SnakeHunter\GAME.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GLOBAL.cpp
+  SnakeHunter.cpp
+  Generating Code...
+  SnakeHunter.vcxproj -> D:\University\GraphicCp\Lab3\Debug\SnakeHunter.exe

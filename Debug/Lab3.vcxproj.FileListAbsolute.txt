@@ -1,0 +1,2 @@
+D:\University\GraphicCp\Lab3\Debug\Lab3.exe
+D:\University\GraphicCp\Lab3\Debug\Lab3.pdb
